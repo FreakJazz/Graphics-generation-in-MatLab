@@ -4,7 +4,7 @@ close all
 clear all
 clc
 % menu ghaphics
-options = menu('GRAPHICS MODE', 'SYSTEM RESPONSE', 'GRAPHICS GENERATE');
+options = menu('CHOOSE GRAPHICS', 'SYSTEM RESPONSE', 'GRAPHICS GENERATE');
 if options == 1
     choice = menu('CHOOSE THE DESIRED GRAPHICS', 'STEP RESPONSE', 'UNDER DAMPERED', 'OVERDAMPERED', 'CRITICALLY DAMPERED', 'PERFORM ALL GRAPHICS');
     % Step Graphics
