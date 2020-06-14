@@ -37,7 +37,7 @@ There are two options the first the system response to step input it is shown, t
 
 ### System Response
 
-![MatLab](https://github.com/FreakJazz/Graphics-generation-in-MatLab/blob/master/images/system_response)
+![MatLab](https://github.com/FreakJazz/Graphics-generation-in-MatLab/blob/master/images/system_response,PNG)
 
 ### Graphics Generate
 
@@ -57,4 +57,9 @@ There are two options the first the system response to step input it is shown, t
 <a name="item5"></a>
 ## Contributing
 
-### 
+**JAZMIN RODRIGUEZ** 
+
+[GitHub](https://github.com/FreakJazz), [LinkedIn](https://www.linkedin.com/in/jazm%C3%ADn-rodr%C3%ADguez-80b580133/)
+
+[Up](#top)
+
