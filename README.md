@@ -37,7 +37,7 @@ There are two options the first the system response to step input it is shown, t
 
 ### System Response
 
-![MatLab](https://github.com/FreakJazz/Graphics-generation-in-MatLab/blob/master/images/system_response,PNG)
+![MatLab](https://github.com/FreakJazz/Graphics-generation-in-MatLab/blob/master/images/system_response.PNG)
 
 ### Graphics Generate
 
